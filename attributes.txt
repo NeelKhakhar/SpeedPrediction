@@ -1,0 +1,50 @@
+Time
+Accelerator pedal operation
+Brake lamp
+Brake switch
+Brake oil pressure
+Steering angle
+Wiper action
+Shift range
+Vehicle speed
+Longitudinal acceleration
+Transversal acceleration
+Yaw rate
+Longitudinal distance
+Relative velocity
+Forward object class
+Lateral distance
+Forward vehicle brake lamp
+Forward vehicle turn signal
+Longitudinal distance 1
+Relative velocity 1
+Lateral distance 1
+Longitudinal distance 2
+Relative velocity 2
+Lateral distance 2
+Traffic light TTC
+Traffic light color
+Stop sign
+Distance to tall gate
+External temperature
+A/C fan level
+month
+day
+hour
+minute
+Road type
+Distance to divergence
+Position light
+Low beam light
+High beam light
+Engine speed
+Coolant temperature
+Generator speed
+Generator torque
+Soc
+DCDC current
+DCDC voltage
+Latitude
+Longitude
+Drive motor revolution
+Drive motor torque
